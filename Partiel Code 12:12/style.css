@@ -1,0 +1,119 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+
+.header{
+    height: 150px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 3%;
+    margin-left: 400px;
+}
+
+h1{
+    color: white;
+    margin-left: 400px;
+}
+.main{
+    height: 680px;
+    background-image: url(./Images/15.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+h2{
+    margin: 0;
+    color: white;
+    padding-top: 50px;
+    font-size: xx-large;
+    margin-left: 500px;
+
+
+
+}
+
+.annonces{
+	width:100vw;
+}
+
+.row{
+	margin:auto;
+}
+
+.mcdo{
+    width: 12%;
+    height: 30%;
+    margin-top: 100px;
+    margin-left: 350px;
+
+}
+.coca{
+    width: 20%;
+    height: 30%;
+    margin-left: 50px;
+}
+.voiture{
+    width: 12%;
+    height: 30%;
+    margin-left: 50px;
+
+}
+
+.button1{
+    margin-left: 580px;
+    margin-top: 200px;
+    width: 50px;
+    background-color: green;
+    color: white;
+    width: 260px;
+    height: 60px;
+
+}
+
+.card img {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+.card{
+
+	padding : 20px;
+}
+
+.footer{
+    height: 70vh;
+}
+.dac{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.edf{
+    height: 60px;
+}
+
+.footer{
+    height: 70vh;
+}
+.dac{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.réseaux{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+}
+.a{
+    font-size: 30px;
+    justify-content: center;
+}
